@@ -1,8 +1,1 @@
-{
-  "garagem": "TCV",
-  "online": 0,
-  "offline": "ERRO",
-  "last_update": "2026-03-11T10:12:15.652590-03:00",
-  "panel_url": "N/A",
-  "tgs_history": []
-}
+{"garagem": "TCV", "online": 0, "offline": "ERRO", "last_update": "2026-03-11T12:07:24.498914-03:00", "panel_url": "N/A", "tgs_history": []}
